@@ -1,0 +1,29 @@
+
+hr.style1 {
+  border-top: 3px solid #402662;
+  width: 50%;
+}
+
+h1 {
+  text-align: center; 
+  font-family: 'Dosis', sans-serif;
+  color: black ;
+  letter-spacing: 0.5em;
+  cursor: default;
+}
+
+.content {
+  margin: 30px; 
+}
+
+.attention {
+  font-family: 'Rajdhani', sans-serif;
+  line-height: 1.6;
+  text-align: center; 
+}
+
+.page {
+  font-family: 'Rajdhani', sans-serif;
+  line-height: 1.6;
+  text-align: center; 
+}
